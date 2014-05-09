@@ -1,0 +1,22 @@
+{
+  "repo":"wangfengmmd/hello_button",
+  "version":"0.0.1",
+  "license":"MIT",
+  "name": "hello_button",
+  "description": "A hello world button",
+  "dependencies": {
+    "component/dom": "*",
+    "component/dialog": "*"
+  },
+  "development": {},
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "templates": [
+    "template.html"
+  ],
+  "styles": [
+    "hello_button.css"
+  ]
+}
